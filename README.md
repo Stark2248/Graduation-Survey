@@ -12,7 +12,7 @@ The first page of this site is to provide the registration no of the student who
 The first page is the login page where admin log in. Its a simple login system. Like all others login validate dashboard logout.The dashboard conntains two blocks. The first block shows no of students given the surveys and the second block contains the no of students not given the survey yet. If admin selects first block then he can view, edit and delete the given surveys according to the survey provided by the student. If admin selects second block the he can see which students have not given the survey and later he can query those students. The left side nav bar contains batch year. The top nav bar contains the log out bottun.
 
 ## Special Implementation
-Some the special things i learned in this project:
+TechStack:
 1. Java Servlet Programming
 2. Connection to mysql database
 3. Server-side Pagination
